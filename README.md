@@ -21,4 +21,10 @@
  </li>
 </ul>
 <h1> Mobile Layout </h1>
-<img src="Preview/Capture2.jpg"/>
+<img src="Preview/Capture1.JPG"/>
+<img src="Preview/Capture2.JPG"/>
+<img src="Preview/Capture3.JPG"/>
+<img src="Preview/Capture4.JPG"/>
+<img src="Preview/Capture5.JPG"/>
+<img src="Preview/Capture6.JPG"/>
+<img src="Preview/Capture7.JPG"/>
