@@ -21,4 +21,4 @@
  </li>
 </ul>
 <h1> Mobile Layout </h1>
-<img src="" style="margin:0 auto; float:none; display:table;"/>
+<img src="Preview/Capture2.jpg"/>
