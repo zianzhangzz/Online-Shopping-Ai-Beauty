@@ -20,5 +20,5 @@
   Bootstrap
  </li>
 </ul>
-<h1> Mobil Layout </h1>
+<h2> Mobil Layout </h2>
 <img src="" style="margin:0 auto; float:none; display:table;"/>
